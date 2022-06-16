@@ -1,0 +1,32 @@
+* {
+   font-family: Helvetica;
+   text-align: center;
+   background-color: antiquewhite;
+}
+
+img {
+    width: 444px;
+    height: 394px;
+}
+
+a {
+    text-decoration: none;
+ }
+
+ ul {
+   list-style: none;
+   color: #6f4e37;
+ }
+
+ ol {
+  color: #6f4e37;
+ }
+
+ h1 {
+  color: #5f4330;
+  font-size: 50px; 
+ }
+
+ h2, h3, h4, h5, h6 {
+  color: #5f4330;
+ }
